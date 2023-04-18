@@ -1,0 +1,10 @@
+.card{
+    width: 240px;
+    height: 300px;
+}
+
+@media screen and (max-width: 768px) {
+    .w-25{
+        width: 100%!important;
+    }
+}
